@@ -1,6 +1,6 @@
 # visangEducation_TK
 ### React + TypesScript + Mobx + SCSS
-### 1. 고객사의 기획서 & 팀원 1명
+### 1. 총원 : 2명
 ### 2. 기존 `화면`과 다른 `UI`, `JSON` 요청
 ### 3. `React` + `TypeScript` + `Mobx` + `SCSS`사용
 ### 4. 비상 교육에서 받은 기획서로 `새로운 컴포넌트` 와 `기존 컴포넌트` 작성
